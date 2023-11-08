@@ -1,0 +1,8 @@
+
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãâóüøÿÿÿÿ8Ë¢úº1
+m	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¸›ö8Í¢úº1
+r	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àé²†şÿÿÿÿ8Î¢úº1
+X	java:S1257"<This block of commented-out lines of code should be removed.(Õ«Ğ·8ÿõ¢úº1
+™
+java:S1130<"|Remove the declaration of thrown exception 'exception.IllegalParameterException', as it cannot be thrown from method's body.(Šİªÿ8ñ¢úº1
+]	java:S125="<This block of commented-out lines of code should be removed.(İãœ†øÿÿÿÿ8ó¢úº1
